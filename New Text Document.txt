@@ -1,0 +1,4 @@
+how to open this: 1st: pip install -r requirements.txt
+2nd:python manage.py runserver
+
+if you havn't install django first install
